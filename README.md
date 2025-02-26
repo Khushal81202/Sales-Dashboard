@@ -1,52 +1,39 @@
-Sales Dashboard - Power BI 📊
+📊 Power BI Sales Dashboard 
 
-This repository contains a Power BI sales dashboard that provides insights into sales, profit, and product distribution across different countries.
+🚀 Overview
 
-🚀 Project Overview
+This Power BI dashboard provides an insightful visualization of sales performance across different countries. It helps stakeholders analyze sales trends, profits, and product performance effectively.
 
-The dashboard visualizes key sales metrics, including:
+📈 Key Features
 
--Sum of Sales by Country and Profit
+-Sum of Sales by Country & Profit: A stacked bar chart representing total sales and profit margins for each country.
 
--Product-Wise Sales Distribution
+-%GT Count of Discount Band by Product: A pie chart visualizing the distribution of discount bands by product.
 
--Yearly Sales Trends
+-Sum of Sales by Country: A bar chart displaying total sales volume by country.
 
--Average Profit by Country
+-Sales Trend Over Time: A stream graph showing product-wise sales trends over different years.
 
--Discount Band Analysis
+-%GT Average of Profit by Country: A donut chart breaking down profit percentages by country.
 
-Data 
+-Sales vs Cost Analysis: Comparative visualizations for sales and COGS (Cost of Goods Sold) per country.
 
--Country: United States, Canada, France, Germany, Mexico
+🎯 Insights Derived
 
--Year: 2013, 2014
+-The United States has the highest total sales, followed by Canada and France.
 
--Product: Paseo, Velo, VTT, Amarilla, Carretera, Montana
+-Certain product categories contribute significantly to profits and discounts.
 
--Sales: Numeric values representing total sales
+-Profitability varies significantly across different countries.
 
--Profit: Numeric values representing profit (including negative values)
+-Yearly sales trends indicate steady growth in key regions.
 
--Discount Band: High, Medium, Low
+🔧 Future Enhancements
 
-📊 Dashboard Features
+-Integration of real-time sales data.
 
--Stacked Bar Chart: Sales and profit comparison by country
+-More granular product-level insights.
 
--Pie Chart: Percentage of product distribution
+-Forecasting future sales trends using Power BI predictive analytics.
 
--Bar Chart: Sales distribution by country
-
--Area Chart: Yearly sales trends
-
--Donut Chart: Profit percentage by country
-
-🛠️ Tools & Technologies Used
-
-Power BI 🎨
-
-Data Visualization 📊
-
-Data Analytics 📈
-
+-Custom user interactions with filters and slicers.
