@@ -1,0 +1,61 @@
+Country,Year,Product,Sales,Profit,Discount Band
+United States of America,2013,Paseo,3219110,96867,High
+United States of America,2013,Velo,4511566,69879,High
+United States of America,2013,VTT,1732180,4886,Medium
+United States of America,2013,Amarilla,4097042,37498,High
+United States of America,2013,Carretera,3272355,-33977,Low
+United States of America,2013,Montana,1329365,14820,Medium
+United States of America,2014,Paseo,2370455,14925,Medium
+United States of America,2014,Velo,4344769,-44689,High
+United States of America,2014,VTT,2262752,35305,Medium
+United States of America,2014,Amarilla,1989436,80608,Low
+United States of America,2014,Carretera,3253882,34478,Medium
+United States of America,2014,Montana,4295231,80523,Low
+Canada,2013,Paseo,1065725,79981,Low
+Canada,2013,Velo,1953277,69346,Low
+Canada,2013,VTT,4474675,-18449,High
+Canada,2013,Amarilla,3370690,19092,Low
+Canada,2013,Carretera,3663046,37313,High
+Canada,2013,Montana,4385659,18148,Medium
+Canada,2014,Paseo,3745683,70174,Low
+Canada,2014,Velo,3669995,-32841,Low
+Canada,2014,VTT,3203682,30077,High
+Canada,2014,Amarilla,3557489,-30543,Medium
+Canada,2014,Carretera,3305413,28953,Medium
+Canada,2014,Montana,1271836,-12935,Medium
+France,2013,Paseo,4769315,-38466,Medium
+France,2013,Velo,3879190,41387,High
+France,2013,VTT,2007293,5591,High
+France,2013,Amarilla,1023247,-25700,Medium
+France,2013,Carretera,3704238,-40732,Medium
+France,2013,Montana,2767640,89643,High
+France,2014,Paseo,2285160,-11956,Low
+France,2014,Velo,1978732,64752,High
+France,2014,VTT,3400070,-47432,High
+France,2014,Amarilla,3033643,83767,Low
+France,2014,Carretera,1136330,-10496,Low
+France,2014,Montana,1586146,79312,Low
+Germany,2013,Paseo,4446532,84633,Low
+Germany,2013,Velo,3948089,54488,Low
+Germany,2013,VTT,2843400,-19465,Medium
+Germany,2013,Amarilla,3935840,39135,Low
+Germany,2013,Carretera,2870230,27373,High
+Germany,2013,Montana,1489570,-39035,Low
+Germany,2014,Paseo,3991650,63252,Low
+Germany,2014,Velo,2521101,48806,Low
+Germany,2014,VTT,1897421,40982,Low
+Germany,2014,Amarilla,2167752,81278,Low
+Germany,2014,Carretera,3316121,72409,High
+Germany,2014,Montana,3350770,15,Low
+Mexico,2013,Paseo,4267824,57059,High
+Mexico,2013,Velo,4256415,37939,Medium
+Mexico,2013,VTT,3832868,55878,Low
+Mexico,2013,Amarilla,1973548,12623,Low
+Mexico,2013,Carretera,3959034,43426,Medium
+Mexico,2013,Montana,3512667,-6415,Medium
+Mexico,2014,Paseo,3161196,59556,Medium
+Mexico,2014,Velo,3061083,45259,Medium
+Mexico,2014,VTT,3009021,-31953,Medium
+Mexico,2014,Amarilla,1075766,96779,High
+Mexico,2014,Carretera,3665702,75117,High
+Mexico,2014,Montana,3782592,78376,Low
