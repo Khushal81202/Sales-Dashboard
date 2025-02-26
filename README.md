@@ -50,4 +50,3 @@ Data Visualization 📊
 
 Data Analytics 📈
 
-Python (for synthetic data generation) 🐍
