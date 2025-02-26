@@ -6,41 +6,41 @@ This repository contains a Power BI sales dashboard that provides insights into 
 
 The dashboard visualizes key sales metrics, including:
 
-Sum of Sales by Country and Profit
+-Sum of Sales by Country and Profit
 
-Product-Wise Sales Distribution
+-Product-Wise Sales Distribution
 
-Yearly Sales Trends
+-Yearly Sales Trends
 
-Average Profit by Country
+-Average Profit by Country
 
-Discount Band Analysis
+-Discount Band Analysis
 
 Data 
 
-Country: United States, Canada, France, Germany, Mexico
+-Country: United States, Canada, France, Germany, Mexico
 
-Year: 2013, 2014
+-Year: 2013, 2014
 
-Product: Paseo, Velo, VTT, Amarilla, Carretera, Montana
+-Product: Paseo, Velo, VTT, Amarilla, Carretera, Montana
 
-Sales: Numeric values representing total sales
+-Sales: Numeric values representing total sales
 
-Profit: Numeric values representing profit (including negative values)
+-Profit: Numeric values representing profit (including negative values)
 
-Discount Band: High, Medium, Low
+-Discount Band: High, Medium, Low
 
 📊 Dashboard Features
 
-Stacked Bar Chart: Sales and profit comparison by country
+-Stacked Bar Chart: Sales and profit comparison by country
 
-Pie Chart: Percentage of product distribution
+-Pie Chart: Percentage of product distribution
 
-Bar Chart: Sales distribution by country
+-Bar Chart: Sales distribution by country
 
-Area Chart: Yearly sales trends
+-Area Chart: Yearly sales trends
 
-Donut Chart: Profit percentage by country
+-Donut Chart: Profit percentage by country
 
 🛠️ Tools & Technologies Used
 
